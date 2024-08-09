@@ -19,6 +19,7 @@ using namespace std;
     n->left=NULL;
     n->right=NULL;
     return n;
+    .
  }
 
  void preorder(struct node *root)
